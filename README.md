@@ -9,7 +9,8 @@ The application on the Qt6/C++ side is the Subscriber and the Arduino UNO R4 WiF
 
 The LCD2004 and BMR280 sensors are connected to the Arduino UNO R4 WiFi as shown in the figure  
 below to send temperature, humidity, and barometric pressure to the subscriber.  
-<center><img src="Schematic/MQTT_BME280.png" width="50%" /></center>  
+
+<center><img src="Schematic/MQTT.png" width="50%" /></center>  
 <br>
 
 In this case, the MQTT topic name is “arduino/sensor”.  
